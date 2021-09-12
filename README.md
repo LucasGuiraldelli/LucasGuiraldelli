@@ -1,9 +1,6 @@
 ## Hey 👋
 
 My name is **Lucas Guiraldelli**
-
- 
-
  
  <div>
   <a href="https://github.com/LucasGuiraldelli">
